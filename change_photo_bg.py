@@ -1,3 +1,6 @@
+"""
+引入的RemoveBg模块路径：https://github.com/brilam/remove-bg
+"""
 from removebg import RemoveBg
 import os
 import sys
